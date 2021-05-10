@@ -1,5 +1,12 @@
 " vim-bootstrap 2021-02-26 10:26:20
 
+"if you find yourself on a sys with a different language: uncomment 4-8 !!!
+"if has('unix')
+"    language messages C
+"else
+"    language messages en
+"endif
+
 "*****************************************************************************
 "" Vim-Plug core
 "*****************************************************************************
